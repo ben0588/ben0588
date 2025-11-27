@@ -1,7 +1,4 @@
 <div align="center">
-  
-  # Hi there, I'm Ben 👋
-
   <h3>
     A Frontend Engineer passionate about building beautiful web experiences.<br>
     一名前端工程師，熱衷於打造美好的網頁體驗。
