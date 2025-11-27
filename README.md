@@ -43,10 +43,4 @@
    - 💬 Ask me about **Frontend Development, React, Next.js**
    - ⚡ Fun fact: **I love coding and coffee! ☕**
   </div>
-
-  <br>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=ben0588&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ben0588&layout=compact&theme=radical&hide_border=true" height="180" alt="languages" />
-
 </div>
