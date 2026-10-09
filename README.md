@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/terminal.svg" width="760" alt="$ whoami → Ben, Frontend Engineer · $ cat focus.txt · $ ls stack/ · $ ./contact.sh" />
+  <img src="./assets/terminal.svg?v=1" width="760" alt="$ whoami → Ben, Frontend Engineer · $ cat focus.txt · $ ls stack/ · $ ./contact.sh" />
 
   <h3>Frontend Engineer · React / Next.js<br>前端工程師 ‧ 專注現代化架構與高維護性網頁開發</h3>
 
@@ -18,7 +18,7 @@
 
 ### Tech Stack
 
-<img src="./assets/stack.svg" width="760" alt="Tech Stack: Frontend, Backend, Tooling" />
+<img src="./assets/stack.svg?v=1" width="760" alt="Tech Stack: Frontend, Backend, Tooling" />
 
 ### Now
 
@@ -29,6 +29,6 @@
 
 ### GitHub Stats
 
-<img src="./assets/stats.svg" width="760" alt="GitHub stats: repos, stars, commits and top languages" />
+<img src="./assets/stats.svg?v=1" width="760" alt="GitHub stats: repos, stars, commits and top languages" />
 
 <sub>SVGs regenerated daily by <a href="./.github/workflows/update.yml">GitHub Actions</a> · zero dependencies</sub>
