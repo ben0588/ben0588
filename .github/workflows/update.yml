@@ -1,6 +1,11 @@
 name: Update README assets
 
 on:
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - 'assets/**'
   schedule:
     - cron: '0 0 * * *' # 08:00 Asia/Taipei
   workflow_dispatch:
